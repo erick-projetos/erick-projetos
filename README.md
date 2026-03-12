@@ -1,6 +1,4 @@
-# Olá 👋
-
-Meu nome é Erick Saraiva.
+# Olá 👋 Meu nome é Erick Saraiva.
 
 Analista de Monitoramento | Estudando SRE, DevOps e Observabilidade.
 
