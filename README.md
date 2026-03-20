@@ -20,10 +20,8 @@ Meu objetivo é me tornar um engenheiro SRE, trabalhando com confiabilidade, mon
 
 ## Tecnologias que estou estudando
 
-- Docker  
-- Kubernetes  
-- Prometheus  
-- Grafana  
+- Observability Stack
+- Kubernetes
 - AWS  
 - CI/CD  
 
@@ -46,14 +44,6 @@ Stack utilizada:
 Repositório:
 
 https://github.com/erick-projetos/sre-platform-lab
-
----
-
-## Interesses
-
-- Observabilidade  
-- SRE  
-- Cloud  
 
 ---
 
