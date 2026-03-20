@@ -26,7 +26,6 @@ Meu objetivo é me tornar um engenheiro SRE, trabalhando com confiabilidade, mon
 - Grafana  
 - AWS  
 - CI/CD  
-- Observabilidade  
 
 ---
 
@@ -38,9 +37,11 @@ Laboratório prático para estudar observabilidade e monitoramento de microservi
 
 Stack utilizada:
 
-- Docker  
-- Prometheus  
-- Grafana  
+- Docker / Docker compose
+- Prometheus + Grafana
+- Loki + Tempo
+- Alertmanager
+- Slack 
 
 Repositório:
 
